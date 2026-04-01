@@ -6,6 +6,7 @@ public class BinarySearch
 	{
 		//Sorts the array
 		Arrays.sort(ray);
+
 		//Sets the top to the top values index, the middle to 0 and the bottom to 0
 		int top = ray.length -1;
 		int middle = 0;
